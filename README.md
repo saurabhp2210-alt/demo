@@ -1,3 +1,3 @@
 # demo
-this is my first git repository
-author : - Saurabh
+this is my first git repository.
+ author : - Saurabh
